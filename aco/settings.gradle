@@ -1,0 +1,3 @@
+rootProject.name='aco'
+include ':app'
+include ':customviews'

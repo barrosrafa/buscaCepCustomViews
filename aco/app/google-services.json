@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1091826437268",
+    "firebase_url": "https://buscacep-243323.firebaseio.com",
+    "project_id": "buscacep-243323",
+    "storage_bucket": "buscacep-243323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091826437268:android:ec3e2e080b3524824ef881",
+        "android_client_info": {
+          "package_name": "br.com.barros.aco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091826437268-005dqtub429g5kjlfu5a56c26u3vgd8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.barros.aco",
+            "certificate_hash": "fbf7d01f5e15d4b07b008e31ff0444e66891bd80"
+          }
+        },
+        {
+          "client_id": "1091826437268-3i7tdm10821e37eavcd23vpenhemp22f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.barros.aco",
+            "certificate_hash": "9ad21a9b2f6882c76d3cda88c65d26e157b3c790"
+          }
+        },
+        {
+          "client_id": "1091826437268-qkvjgec3vv8bbqof2git2cis26jadvf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq3LAe2RTf1u_mh2NRA8SGDT3siYTh12k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091826437268-qkvjgec3vv8bbqof2git2cis26jadvf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

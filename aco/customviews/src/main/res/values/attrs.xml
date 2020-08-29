@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToolBarMain">
+        <attr name="toolBarType" format="enum">
+            <enum name="main" value="0"/>
+        </attr>
+        <attr name="titleToolbarMain" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="FormField">
+        <attr name="fieldType" format="enum">
+            <enum name="spinner" value="11" />
+        </attr>
+
+    </declare-styleable>
+
+    <declare-styleable name="Spinner">
+        <attr name="spinnerType" format="enum">
+            <enum name="states" value="6" />
+        </attr>
+
+    </declare-styleable>
+</resources>

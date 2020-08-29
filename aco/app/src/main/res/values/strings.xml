@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">aco</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="username">User</string>
+    <string name="senha">Senha</string>
+    <string name="criar">Criar</string>
+    <string name="email">E-mail</string>
+    <string name="lastname">Sobrenome</string>
+    <string name="firstname">Nome</string>
+    <string name="new_account">New Account</string>
+    <string name="forgot">Recuperar senha</string>
+    <string name="recupere_sua_senha">Recupere sua senha.</string>
+    <string name="find_cep">Buscar CEP</string>
+    <string name="error_incorrect_zip">Digite um CEP valido</string>
+    <string name="admob_app">ca-app-pub-8442525759942064~4265627696</string>
+    <string name="admob_banner_id">ca-app-pub-8442525759942064/1029283782</string>
+    <string name="admob_Intersticial_id">ca-app-pub-8442525759942064/7949915352</string>
+</resources>
